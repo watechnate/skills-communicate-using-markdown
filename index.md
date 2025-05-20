@@ -7,3 +7,8 @@ made a new header
 ```javascript
 var myVar = "Hello World!";
 ```
+# Task List
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
